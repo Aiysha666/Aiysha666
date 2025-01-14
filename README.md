@@ -8,7 +8,7 @@
 My Profile ver. 1.0.0
 -----------------------------------------------------------------------------------
 Username: Aiysha666
-WhoamI: Uni student in computer engineering
+WhoamI: Uni student in Design
 OS: Arch Linux, Linux Mint, Windows 11
 Telegram: @figuramaterna_666
 Location: Brazil
