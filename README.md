@@ -13,8 +13,7 @@ OS: Arch Linux, Pop!OS, Windows 11
 Telegram: @figuramaterna_666
 Location: Brazil
 Languages: English, portuguese
-Programming Languages: Js, CSS and HTML
-Learning: Python, Java, C#
+Learning: Python, Java
 Hobbies: Gaming, watching anime, TTRPG, coding while I am listening music
 
 ```
