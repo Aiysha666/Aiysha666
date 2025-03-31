@@ -10,7 +10,7 @@ My Profile ver. 1.0.0
 Username: Aiysha666
 WhoamI: Uni student in Design
 OS: Arch Linux, Pop!OS, Windows 11
-Telegram: @@EVERYONEISAWAYSCONNECTED
+Telegram: @EVERYONEISAWAYSCONNECTED
 Location: Brazil
 Languages: English, portuguese
 Learning: Python, Java
